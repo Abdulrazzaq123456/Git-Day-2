@@ -8,4 +8,7 @@ public class Demo {
 		
 	System.out.println(a+b);
 }
+	public static void divide(int a, int c){
+		System.out.println(a/c);
+}
 }
